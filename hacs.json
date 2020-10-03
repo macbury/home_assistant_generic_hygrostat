@@ -1,0 +1,6 @@
+{
+  "name": "GenericHydrostat",
+  "domains": ["humidifier"],
+  "render_readme": true,
+  "country": ["EU", "PL"]
+}
